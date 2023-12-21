@@ -3,7 +3,7 @@
 #### Screenshots
 
 <img width="949" alt="Screenshot 2023-12-21 141710" src="https://github.com/Steffi-Wilson-Anthony/Audio-Player/assets/114890864/c2cc74ee-0c98-4f26-9c7c-9b769372c350">
-
+<img width="947" alt="Screenshot 2023-12-21 141821" src="https://github.com/Steffi-Wilson-Anthony/Audio-Player/assets/114890864/ca400ea8-e102-4368-b925-ff06492faf31">
 ## Steps
 
 - There is the index.css file with all the css for the main page and the popup.
