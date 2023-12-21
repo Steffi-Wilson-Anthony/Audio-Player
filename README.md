@@ -1,6 +1,7 @@
 ## Figma URL
 
 [Christmas Greetings](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
+![Uploading Screenshot 2023-12-21 141710.png…]()
 
 ## Steps
 
