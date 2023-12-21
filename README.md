@@ -1,7 +1,8 @@
-## Figma URL
+## Christmas Greetings
 
-[Christmas Greetings](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
-![Uploading Screenshot 2023-12-21 141710.png…]()
+#### Screenshots
+
+<img width="949" alt="Screenshot 2023-12-21 141710" src="https://github.com/Steffi-Wilson-Anthony/Audio-Player/assets/114890864/c2cc74ee-0c98-4f26-9c7c-9b769372c350">
 
 ## Steps
 
