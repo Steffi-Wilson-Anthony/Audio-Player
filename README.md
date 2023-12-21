@@ -4,7 +4,7 @@
 
 ## Steps
 
--There is the index.css file with all the css for the main page and the popup
+- There is the index.css file with all the css for the main page and the popup
 
 #### Import List,Title and Popup components
 They will be rendered on the main page.
